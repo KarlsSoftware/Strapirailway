@@ -5,4 +5,5 @@ link the repo to railway: npx railway link
 
 railway run npm run develop
 develop:
-npx railway run npm run develop
+npx railway run npm run develop       
+git push origin main
